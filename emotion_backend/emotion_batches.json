@@ -1,0 +1,218 @@
+[
+  {
+    "batch_id": 1,
+    "start_batch": 1777301950.9123964,
+    "end_batch": 1777302025.279639,
+    "arousal": 0.08,
+    "valence": -0.17,
+    "emotion_name": "Slightly distressed"
+  },
+  {
+    "batch_id": 2,
+    "start_batch": 1777302025.279639,
+    "end_batch": 1777302036.5331802,
+    "arousal": 0.26285714285714284,
+    "valence": -0.07428571428571429,
+    "emotion_name": "Moderately alarmed"
+  },
+  {
+    "batch_id": 3,
+    "start_batch": 1777302036.5331802,
+    "end_batch": 1777302046.9556043,
+    "arousal": 0.306,
+    "valence": -0.28400000000000003,
+    "emotion_name": "Slightly aroused"
+  },
+  {
+    "batch_id": 4,
+    "start_batch": 1777302046.9556043,
+    "end_batch": 1777302057.5206962,
+    "arousal": 0.276,
+    "valence": -0.292,
+    "emotion_name": "Moderately afraid"
+  },
+  {
+    "batch_id": 5,
+    "start_batch": 1777302057.5206962,
+    "end_batch": 1777302068.547623,
+    "arousal": 0.235,
+    "valence": -0.20833333333333334,
+    "emotion_name": "Moderately annoyed"
+  },
+  {
+    "batch_id": 6,
+    "start_batch": 1777302068.547623,
+    "end_batch": 1777302079.1122525,
+    "arousal": 0.258,
+    "valence": -0.18,
+    "emotion_name": "Moderately distressed"
+  },
+  {
+    "batch_id": 7,
+    "start_batch": 1777302079.1122525,
+    "end_batch": 1777302090.201716,
+    "arousal": 0.21000000000000002,
+    "valence": -0.25,
+    "emotion_name": "Moderately annoyed"
+  },
+  {
+    "batch_id": 8,
+    "start_batch": 1777302090.201716,
+    "end_batch": 1777302100.3511345,
+    "arousal": 0.304,
+    "valence": -0.388,
+    "emotion_name": "Very annoyed"
+  },
+  {
+    "batch_id": 9,
+    "start_batch": 1777302100.3511345,
+    "end_batch": 1777302111.315274,
+    "arousal": 0.295,
+    "valence": -0.2783333333333333,
+    "emotion_name": "Very annoyed"
+  },
+  {
+    "batch_id": 10,
+    "start_batch": 1777302111.315274,
+    "end_batch": 1777302122.5195146,
+    "arousal": 0.345,
+    "valence": 0.2866666666666667,
+    "emotion_name": "Very delighted"
+  },
+  {
+    "batch_id": 11,
+    "start_batch": 1777302122.5195146,
+    "end_batch": 1777302132.5280576,
+    "arousal": 0.374,
+    "valence": 0.438,
+    "emotion_name": "Moderately delighted"
+  },
+  {
+    "batch_id": 12,
+    "start_batch": 1777302132.5280576,
+    "end_batch": 1777302144.535675,
+    "arousal": 0.38333333333333336,
+    "valence": 0.14,
+    "emotion_name": "Slightly alarmed"
+  },
+  {
+    "batch_id": 13,
+    "start_batch": 1777302144.535675,
+    "end_batch": 1777302154.544559,
+    "arousal": 0.23199999999999998,
+    "valence": -0.148,
+    "emotion_name": "Moderately annoyed"
+  },
+  {
+    "batch_id": 14,
+    "start_batch": 1777302154.544559,
+    "end_batch": 1777302537.6072607,
+    "arousal": 0.23333333333333336,
+    "valence": -0.3133333333333333,
+    "emotion_name": "Slightly distressed"
+  },
+  {
+    "batch_id": 15,
+    "start_batch": 1777302537.6072607,
+    "end_batch": 1777302619.5802236,
+    "arousal": 0.15999999999999998,
+    "valence": -0.20500000000000002,
+    "emotion_name": "Slightly annoyed"
+  },
+  {
+    "batch_id": 16,
+    "start_batch": 1777302619.5802236,
+    "end_batch": 1777302630.8931615,
+    "arousal": 0.33,
+    "valence": -0.14333333333333334,
+    "emotion_name": "Moderately astonished"
+  },
+  {
+    "batch_id": 17,
+    "start_batch": 1777302630.8931615,
+    "end_batch": 1777302641.869153,
+    "arousal": 0.42,
+    "valence": -0.08333333333333333,
+    "emotion_name": "Moderately tensed"
+  },
+  {
+    "batch_id": 18,
+    "start_batch": 1777302641.869153,
+    "end_batch": 1777302651.9140549,
+    "arousal": 0.318,
+    "valence": -0.20800000000000002,
+    "emotion_name": "Slightly aroused"
+  },
+  {
+    "batch_id": 19,
+    "start_batch": 1777302651.9140549,
+    "end_batch": 1777302663.9074814,
+    "arousal": 0.27166666666666667,
+    "valence": -0.085,
+    "emotion_name": "Moderately afraid"
+  },
+  {
+    "batch_id": 20,
+    "start_batch": 1777302663.9074814,
+    "end_batch": 1777302673.9763181,
+    "arousal": 0.312,
+    "valence": 0.009999999999999986,
+    "emotion_name": "Extremely happy"
+  },
+  {
+    "batch_id": 21,
+    "start_batch": 1777302673.9763181,
+    "end_batch": 1777302685.9302373,
+    "arousal": 0.4283333333333334,
+    "valence": 0.515,
+    "emotion_name": "Moderately delighted"
+  },
+  {
+    "batch_id": 22,
+    "start_batch": 1777302685.9302373,
+    "end_batch": 1777302696.0003333,
+    "arousal": 0.26,
+    "valence": -0.054000000000000006,
+    "emotion_name": "Slightly aroused"
+  },
+  {
+    "batch_id": 23,
+    "start_batch": 1777302696.0003333,
+    "end_batch": 1777302707.012022,
+    "arousal": 0.30200000000000005,
+    "valence": -0.142,
+    "emotion_name": "Moderately tensed"
+  },
+  {
+    "batch_id": 24,
+    "start_batch": 1777302707.012022,
+    "end_batch": 1777309388.9265752,
+    "arousal": 0.268,
+    "valence": -0.13799999999999998,
+    "emotion_name": "Slightly astonished"
+  },
+  {
+    "batch_id": 25,
+    "start_batch": 1777309388.9265752,
+    "end_batch": 1777309400.4390914,
+    "arousal": 0.3114285714285714,
+    "valence": -0.07285714285714286,
+    "emotion_name": "Slightly afraid"
+  },
+  {
+    "batch_id": 26,
+    "start_batch": 1777309400.4390914,
+    "end_batch": 1777309412.2562125,
+    "arousal": 0.3466666666666667,
+    "valence": -0.04999999999999999,
+    "emotion_name": "Moderately excited"
+  },
+  {
+    "batch_id": 27,
+    "start_batch": 1777309412.2562125,
+    "end_batch": 1777309422.3079224,
+    "arousal": 0.32999999999999996,
+    "valence": -0.122,
+    "emotion_name": "Moderately aroused"
+  }
+]
